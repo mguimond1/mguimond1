@@ -1,16 +1,20 @@
 ## Hi there 👋
+# Hi, I'm Maggie Guimond 👋
 
-<!--
-**mguimond1/mguimond1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m a [senior] at [Southern Illinois University of Edwardsville studying Mass Communications].
+This semester I’m working on projects in R/RStudio and documenting progress in my weekly journal.
 
-Here are some ideas to get you started:
+## What I’m learning this term
+- R, RStudio, and Quarto for data analysis & reporting
+- Git + GitHub for version control and collaboration
+- Research methods and reproducible workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Find me
+- Email: [mguimon@siue.edu]
+- Website/Portfolio: [link, optional]
+- LinkedIn: [Maggie Guimond]
+
+## Current tools
+- **Languages:** R, Markdown
+- **Tools:** RStudio, Quarto, GitHub
+
